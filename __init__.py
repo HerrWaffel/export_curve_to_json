@@ -21,7 +21,7 @@ bl_info = {
     "author": "Quint Vrolijk",
     "description": "",
     "blender": (5, 0, 0),
-    "version": (0, 0, 1),
+    "version": (1, 0, 1),
     "location": "File > Import-Export",
     "warning": "",
     "category": "Import-Export",
