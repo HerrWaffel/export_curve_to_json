@@ -21,11 +21,7 @@ bl_info = {
     "author": "Quint Vrolijk",
     "description": "",
     "blender": (5, 0, 0),
-<<<<<<< HEAD
-    "version": (1, 0, 1),
-=======
-    "version": (1, 0, 0),
->>>>>>> 4a7f93a (Merge pull request #1 from HerrWaffel/v1.0.0)
+    "version": (1, 0, 2),
     "location": "File > Import-Export",
     "warning": "",
     "category": "Import-Export",
